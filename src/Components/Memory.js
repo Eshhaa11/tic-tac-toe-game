@@ -46,7 +46,7 @@ function Game() {
       };
     
       return (
-        <div className="memory-game">
+        <div className="memory-cont">
           <h1>Memory Matching Card Game</h1>
           <div className="grid">
             {cards.map((card, i) => (
