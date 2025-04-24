@@ -5,10 +5,11 @@
   
   .grid {
     display: grid;
+    margin-top: 100px;
     grid-template-columns: repeat(4, 60px);
     gap: 10px;
     justify-content: center;
-    margin-top: 20px;
+   
   }
   
   .card {
