@@ -22,10 +22,10 @@ body {
     background-color:lightpink;
     display: flex;
     align-items: center;
-    font-size: 30px;
+    font-size: 26px;
     justify-content: center;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 8px;
   }
   
   .card.flipped {
