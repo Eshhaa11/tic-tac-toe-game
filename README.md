@@ -8,12 +8,12 @@ To see it in action, clone the repository and follow the setup instructions belo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Eshhaa11/memory-card-matching-game
+   git clone 
    
    
 2. **Navigate to the project directory:**
 
-   cd  Memory-Card-Matching-Game
+   cd  Tic-Tac-Toe-Game
 
 3. **Install dependencies:**
 
