@@ -30,6 +30,8 @@ body {
 h1{
     font-size: 28px;
     color: darkblue;
+    font-family: "Arial";
+    font-weight: bold;
 }
 .card.flipped {
   background-color: #040101;
