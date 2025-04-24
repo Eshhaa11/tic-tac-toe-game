@@ -19,9 +19,10 @@ body {
   }
   
   .status {
-    font-size: 20px;
-    margin-bottom: 15px;
-    color: #00695c;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #097b6e;
+    font-weight: bold;
   }
   
   .board {
