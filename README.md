@@ -1,22 +1,4 @@
-# 🧠 Memory Card Matching Game
 
-A fun and visual **memory card matching game** built with React. Flip cards to find all the matching pairs with minimal turns. Simple to play and rewarding to win!
-
----
-
-## 📌 Features
-- ✅ **Card Flipping**: Click to flip and reveal emoji-based cards.
-- ✅ **Matching Logic**: Cards stay visible when matched.
-- ✅ **Turn Counter**: Tracks how many turns you've taken.
-- ✅ **Simple Reset**: Instantly reshuffle and restart the game.
-- ✅ **Clean UI**: Styled using a custom CSS file.
-
----
-
-## 🛠️ Technologies Used
-- ⚛️ **React** (`useState`)
-- 🧠 **JavaScript** (Game logic in `memory.js`)
-- 🎨 **CSS** (`memory.css` for styling)
 
 ---
 
