@@ -11,8 +11,9 @@ body {
   }
   
   h1 {
-    color: #2e7d32;
     margin-bottom: 20px;
+    color: #2e7d32;
+
   }
   
   .status {
