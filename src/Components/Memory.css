@@ -1,33 +1,36 @@
 body {
-    background-color: paleturquoise;
+  background-color: paleturquoise;
 }
 
 .memory-cont {
-    text-align: center;
-    font-family: sans-serif;
-  }
-  
-  .grid {
-    display: grid;
-    margin-top: 100px;
-    grid-template-columns: repeat(4, 60px);
-    gap: 35px;
-    justify-content: center;
-   
-  }
-  
-  .card {
-    width: 80px;
-    height: 80px;
-    background-color:lightpink;
-    display: flex;
-    align-items: center;
-    font-size: 26px;
-    justify-content: center;
-    cursor: pointer;
-    border-radius: 8px;
-  }
-  
-  .card.flipped {
-    background-color: #040101;
-  }
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.grid {
+  display: grid;
+  margin-top: 100px;
+  grid-template-columns: repeat(4, 60px);
+  gap: 35px;
+  justify-content: center;
+}
+
+.card {
+  width: 80px;
+  height: 80px;
+  background-color: lightpink;
+  display: flex;
+  align-items: center;
+  font-size: 26px;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+h1{
+    font-size: 28px;
+    color: darkblue;
+}
+.card.flipped {
+  background-color: #040101;
+}
