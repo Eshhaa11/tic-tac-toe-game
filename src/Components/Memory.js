@@ -14,4 +14,11 @@ function Game() {
         }))
       );
       const [flipped, setFlipped] = useState([]);
+
+      const handleClick = (index) => {
+        const newCards = [...cards];
+    
+        if (newCards[index].isFlipped || newCards[index].isMatched || flipped.length === 2) {
+          return;
+        }
 }
