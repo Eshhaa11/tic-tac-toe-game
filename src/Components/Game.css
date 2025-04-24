@@ -42,6 +42,8 @@ body {
     color: #b52116;
     display: flex;
     cursor: pointer;
+    align-items: center;
+    justify-content: center;
   }
   
   .cell:hover {
