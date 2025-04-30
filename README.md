@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/tic.jpg)
+
 # ❌⭕ Tic Tac Toe Game
 
 A simple yet beautifully styled **Tic Tac Toe** game built with React. Play as X or O, win the match, and restart anytime. Great for a quick challenge!
